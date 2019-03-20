@@ -1,6 +1,8 @@
 # FP learning resources
 A collection of good learning resources for FP stuff (handpicked by @layflags and me :-) )
 
+Also check out a comparison table of FP languages [here](https://github.com/ChristophP/FP-learning-resources/blob/master/FP_LANGUAGE_COMPARISON.md).
+
 ## Elm
 
 - [The official Elm language guide](https://guide.elm-lang.org/): Very nice for programming beginners and FP newbies.
@@ -15,6 +17,6 @@ A collection of good learning resources for FP stuff (handpicked by @layflags an
 
 - [Real World Haskell](http://book.realworldhaskell.org/read/): I would call this a good second book for Haskell. Without prior FP knowledge it would be a bit hard to understand. It explains a lot of concepts well and does that with a lot of code examples that cover real world use cases that are commonly used in (web)/development, like working with databases, Http servers and clients, File IO, etc. . The content is freely available online.
 
-- [Learn you a Haskell for great good](http://learnyouahaskell.com/chapters): Great introductory book for people with or without FP knowledge wanting to learn Haskell. It explains the syntax and the language quite well but doesn't say much about tooling, development and libraries. 
+- [Learn you a Haskell for great good](http://learnyouahaskell.com/chapters): Great introductory book for people with or without FP knowledge wanting to learn Haskell. It explains the syntax and the language quite well but doesn't say much about tooling, development and libraries.
 
 
