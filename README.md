@@ -1,7 +1,7 @@
 # FP learning resources
 A collection of good learning resources for FP stuff (handpicked by @layflags and me :-) )
 
-Also check out a comparison table of FP languages [here](https://github.com/ChristophP/FP-learning-resources/blob/master/FP_LANGUAGE_COMPARISON.md).
+Also check out a comparison table of FP languages [here](https://github.com/ChristophP/FP-learning-resources/blob/master/FP_LANG_COMPARISON.md).
 
 ## Elm
 
